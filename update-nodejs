@@ -1,0 +1,4 @@
+###简便的更新nodejs的方法
+  利用node的n模块，此模块是用来管理node版本的：
+    (sudo) npm install -g n
+    (sudo) n stable
